@@ -1,0 +1,13 @@
+.form-container {
+  align-items: center;
+  margin-top: 10px;
+  background-color: aliceblue;
+}
+.main-btn {
+  background-color: #8e8be6;
+  color: white;
+  padding: 15px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  margin-left: 15px;
+}

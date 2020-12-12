@@ -1,0 +1,7 @@
+.user-nav-link {
+  font-size: 13px;
+  font-weight: 600;
+}
+.user-nav-link:hover {
+  color: #8e8be6 !important;
+}

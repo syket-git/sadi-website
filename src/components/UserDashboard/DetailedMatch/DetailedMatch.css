@@ -1,0 +1,13 @@
+.match-icon {
+  color: #8e8be6;
+  font-size: 40px;
+}
+
+.detail-perk {
+  margin: 30px auto;
+  line-height: "70%";
+}
+
+.matching-row {
+  border-bottom: 1px solid #a8a1a1;
+}

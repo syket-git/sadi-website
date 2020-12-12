@@ -1,0 +1,7 @@
+.table-header-row {
+  border-bottom: 1px solid #8e8be6;
+}
+
+.table-row {
+  border-bottom: 1px dashed rgb(194, 162, 162);
+}

@@ -1,0 +1,35 @@
+.main-nav-link:hover {
+  color: white !important;
+  background-color: #cf6ac6;
+  margin-top: -8px;
+  padding-top: 16px;
+  margin-bottom: -8px;
+  padding-bottom: 16px;
+}
+.navbar-brand {
+  color: #8e8be6 !important;
+}
+
+.brand-btn {
+  height: 100%;
+  background-color: #cf6ac6;
+  border: none;
+}
+
+.brand-btn:hover {
+  height: 100%;
+  background-color: #b933ae;
+  border: none;
+}
+
+/* .register-btn {
+} */
+
+/* .register-btn:hover {
+  color: "#cf6ac6 !important";
+  background-color: "white !important";
+  margin-top: "-8px";
+  padding-top: "16px";
+  margin-bottom: "-8px";
+  padding-bottom: " 16px";
+} */

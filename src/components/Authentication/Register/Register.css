@@ -1,0 +1,35 @@
+.social-icon {
+  width: 25px;
+}
+
+.social-row {
+  border-radius: 5px;
+  border: none;
+  height: 40px;
+  margin: 0 60px;
+  padding: 0 30px;
+}
+
+.social-link {
+  text-decoration: none !important;
+  color: black !important;
+}
+
+.social-link:hover {
+  text-decoration: none !important;
+  color: #d47edf !important;
+}
+
+.closing-btn {
+  background-color: #d47edf;
+  border-radius: 2px;
+  border: none;
+  padding: 3 10px;
+}
+
+.closing-btn:hover {
+  background-color: #8e8be6;
+  border-radius: 2px;
+  border: none;
+  padding: 3 10px;
+}

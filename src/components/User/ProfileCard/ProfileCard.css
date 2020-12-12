@@ -1,0 +1,15 @@
+.premium-btn {
+  background-color: #8e8be6 !important;
+  color: white !important;
+}
+
+.profile-img {
+  border-radius: 200px;
+  padding-right: 30px;
+  padding-left: 30px;
+  margin-top: 30px;
+}
+
+.profile-card {
+  border: none;
+}
